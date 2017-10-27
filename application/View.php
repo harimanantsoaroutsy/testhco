@@ -14,7 +14,7 @@
 			<h1>Wiki-Webo-Facto-Search</h1>
 		</div>
 		<div class="row-fluid" id="formulaire">
-			<form class="form-inline" method="post" action="/testhco-1/search">
+			<form class="form-inline" method="post" action="/search">
 				<div class="form-group">
 					<input type="text" class="form-control" id="searchval" name="searchval" placeholder="Rechercher">
 					<button type="submit" class="btn btn-danger" id="search"><span class="glyphicon glyphicon-search"></span></button>
