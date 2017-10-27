@@ -1,0 +1,30 @@
+body {
+	background-color: ;
+}
+.container{
+	margin-top:20px;
+	background-color: rgb(0,71,119);
+	z-index: 1;
+	box-shadow:0 5px 12px -6px black !important;
+	height:750px;
+	border-radius: 5px;
+}
+#formulaire{
+	margin-bottom: 10px;
+}
+#titre >h1{
+	text-align: center;
+	color:white;
+}
+#result{
+	border:solid 1px gray;
+	height:600px;
+	background-color: white;
+	border-radius: 5px;
+	overflow: auto;
+	padding-left: 50px;
+}
+
+h2{
+	text-align: center;
+}
